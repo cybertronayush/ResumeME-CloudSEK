@@ -7,7 +7,9 @@
 ![Cloud](https://img.shields.io/badge/Cloud-HIROKU-orange)
 
 ### DEPLOYED WEBSITE LINK:
+FrontEnd
 http://resumeme.hashigma.com/
+BackEnd
 https://resumesharingayush.herokuapp.com
 
 
