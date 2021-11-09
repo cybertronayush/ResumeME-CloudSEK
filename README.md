@@ -6,6 +6,9 @@
 ![Backend](https://img.shields.io/badge/Backend-NodeJS/JS-green)
 ![Cloud](https://img.shields.io/badge/Cloud-HIROKU-orange)
 
+### DEPLOYED WEBSITE LINK:
+http://resumeme.hashigma.com/
+
 
 **Share Resume Easily* :clapper::v:
 
