@@ -1,7 +1,7 @@
 # ResumeME-CloudSEK
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-7-blue)
-![DtaBase](https://img.shields.io/badge/MONGODB-Colab-orange)
+![DtaBase](https://img.shields.io/badge/MONGODB-NOSQL-orange)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
 ![Backend](https://img.shields.io/badge/Backend-NodeJS/JS-green)
 ![Cloud](https://img.shields.io/badge/Cloud-HIROKU-orange)
