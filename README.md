@@ -8,6 +8,8 @@
 
 ### DEPLOYED WEBSITE LINK:
 http://resumeme.hashigma.com/
+https://resumesharingayush.herokuapp.com
+
 
 
 **Share Resume Easily* :clapper::v:
