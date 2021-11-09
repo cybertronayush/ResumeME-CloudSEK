@@ -23,7 +23,7 @@ The easiest way to share files across all of your devices. Send files of any siz
 
 **Change .envexample to .env**
 npm install
-Put all the report credentials
+Put all the required credentials
 npm run dev 
 
 
